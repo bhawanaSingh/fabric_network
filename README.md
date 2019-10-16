@@ -1,7 +1,7 @@
 ## Hyperledger Convector Suits
-In this session we will discuss about the what *Hyperledger Convector* all about and why it is required for the hyperledger fabric devlopment. instead of writing go on traditional Go lang, Hyperledger Convector support the *Typescrit* for writing the chaincode and modelling language to make the project sckelton. 
+In this session we will discuss about the what *Hyperledger Convector* all about and why it is required for the hyperledger fabric devlopment. instead of writing go on traditional Go lang, Hyperledger Convector support the *Typescrit* for writing the chaincode and modelling language to make the project sckelton. The Convector Suits is created and mantainted by WorldSibu to support Enterprise Blockchain Networks. It provides easiest ways to to create your own smart contract.
 Before going to stat this session let first work on some dependencies required to build your first application on hyperledger convector. 
-## Dependencis/ Packages:
+## Dependencies/ Packages:
 - Download the *VS Code Editor* for writing your smart contract.
 - Download the NVM.
 ```
@@ -21,6 +21,10 @@ $ npm i -g @worldsibu/hurley
 $ npm upgrade -g @worldsibu/hurley ## upgrade
 $ hurl --version
 ```
-
-
+## Convector-CLI
+Convector CLI is the official Command-Line Interface for Convector Framework. It is an open source project under an Apache 2.0 license to help you create Convector projects easily.
+```
+$ npm install -g @worldsibu/convector-cli
+$ npm update -g @worldsibu/convector-cli ##upgrade
+```
 
