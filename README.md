@@ -3,12 +3,12 @@ In this session we will discuss about the what *Hyperledger Convector* all about
 Before going to stat this session let first work on some dependencies required to build your first application on hyperledger convector. 
 #Dependencis/ Packages:
 download the 'vs code editor' for writing your smart contract.
-'''
+```
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 source ~/.profile 
 nvm ls-remote
 nvm install v10.16.3
 node --version
-'''
+```
 
 
