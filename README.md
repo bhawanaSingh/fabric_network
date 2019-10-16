@@ -12,9 +12,9 @@ $ nvm install v10.16.3
 $ node --version
 ```
 or you can follow up the [link](https://tecadmin.net/install-nodejs-with-nvm/) to download NVM. 
--Downlaod Docker and Docker-Compose using this [link](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-16-04). 
+- Downlaod Docker and Docker-Compose using this [link](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-16-04). 
 
-#####Hurley
+###Hurley
 Hurley is used as a devlopment enviorment for running Enterprise Blockchain by supporting the Hyperledger Fabric. Hurly is an open source project under the Apahe 2.0 licence, to crete Convector projects.
 
 
