@@ -34,5 +34,9 @@ $ npm install -g @worldsibu/convector-cli
 $ npm update -g @worldsibu/convector-cli ##upgrade
 ```
 #### Open the terminal and follow up the commands
+After running all those above commands create your first projcet by writing the below commands.
+```
+$ conv new myfirstapp
+```
 
 
