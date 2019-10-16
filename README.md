@@ -37,7 +37,9 @@ $ npm update -g @worldsibu/convector-cli ##upgrade
 After running all those above commands create your first projcet by writing the below commands.
 ```
 $ conv new myfirstapp
+$ npm install
 ```
 After running this command you will see some of the files skeleton has been created in your project file name. Move to the ` /myfirstapp/packages/myfirstapp-cc/src ` you will see two line name with extention  ` *.controller.ts* ` and ` *.model.ts* `. these are used to write your first smart contract.
 
+After running `npm install` you will observe two new files in yur tests directory with name `myfirstapp.spec.ts` and `myfirstapp.e2e.ts`. 
 
