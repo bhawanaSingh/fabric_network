@@ -21,8 +21,12 @@ $ npm i -g @worldsibu/hurley ## 1.1.2
 $ npm upgrade -g @worldsibu/hurley ## upgrade
 $ hurl --version
 ```
+The simplest way to quickely setup the Hyperledger Fabric devlopment enviorment instead of running the the typical commands supported by Hyperledger Fabric and do changes in the ymal files, Hyperledger convector provides some easy commnads to start working with your initial smart contracts.
+``` $ hurl new ## navigate to your project directory and run this commnad it will create a setup of 2 organization each containg one admin aand one peer attachetd with command channel. ```
+
 ## Convector-CLI
 Convector CLI is the official Command-Line Interface for Convector Framework. It is an open source project under an Apache 2.0 license to help you create Convector projects easily.
+The fastest and easiest way to build a new Convector Smart Contracts project. It is fully integrated with Hurley as well.
 ```
 $ npm install -g @worldsibu/convector-cli
 $ npm update -g @worldsibu/convector-cli ##upgrade
