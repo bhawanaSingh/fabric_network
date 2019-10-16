@@ -17,7 +17,7 @@ or you can follow up the [link](https://tecadmin.net/install-nodejs-with-nvm/) t
 ## Hurley
 Hurley is used as a devlopment enviorment for running Enterprise Blockchain by supporting the Hyperledger Fabric. Hurly is an open source project under the Apahe 2.0 licence, to crete Convector projects.
 ```
-$ npm i -g @worldsibu/hurley
+$ npm i -g @worldsibu/hurley ## 1.1.2
 $ npm upgrade -g @worldsibu/hurley ## upgrade
 $ hurl --version
 ```
@@ -27,4 +27,6 @@ Convector CLI is the official Command-Line Interface for Convector Framework. It
 $ npm install -g @worldsibu/convector-cli
 $ npm update -g @worldsibu/convector-cli ##upgrade
 ```
+#### Open the terminal and follow up the commands
+
 
