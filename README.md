@@ -38,5 +38,6 @@ After running all those above commands create your first projcet by writing the 
 ```
 $ conv new myfirstapp
 ```
+After running this command you will see some of the files skeleton has been created in your project file name. Move to the */myfirstapp/packages/myfirstapp-cc/src* you will see two line name with extention  * *.controller.ts* and * *.model.ts*. these are used to write your first smart contract.
 
 
