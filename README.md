@@ -43,3 +43,5 @@ After running this command you will see some of the files skeleton has been crea
 
 After running `npm install` you will observe two new files in yur tests directory with name `myfirstapp.spec.ts` and `myfirstapp.e2e.ts`. 
 
+### Lerna
+it help yo manage packages and piece of codes.
